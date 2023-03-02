@@ -1,0 +1,11 @@
+C:\Users\Влада\source\repos\ConsoleApp9\CatsShop\bin\Debug\CatsShop.exe.config
+C:\Users\Влада\source\repos\ConsoleApp9\CatsShop\bin\Debug\CatsShop.exe
+C:\Users\Влада\source\repos\ConsoleApp9\CatsShop\bin\Debug\CatsShop.pdb
+C:\Users\Влада\source\repos\ConsoleApp9\CatsShop\obj\Debug\CatsShop.csproj.AssemblyReference.cache
+C:\Users\Влада\source\repos\ConsoleApp9\CatsShop\obj\Debug\CatsShop.csproj.SuggestedBindingRedirects.cache
+C:\Users\Влада\source\repos\ConsoleApp9\CatsShop\obj\Debug\CatsShop.Form1.resources
+C:\Users\Влада\source\repos\ConsoleApp9\CatsShop\obj\Debug\CatsShop.Properties.Resources.resources
+C:\Users\Влада\source\repos\ConsoleApp9\CatsShop\obj\Debug\CatsShop.csproj.GenerateResource.cache
+C:\Users\Влада\source\repos\ConsoleApp9\CatsShop\obj\Debug\CatsShop.csproj.CoreCompileInputs.cache
+C:\Users\Влада\source\repos\ConsoleApp9\CatsShop\obj\Debug\CatsShop.exe
+C:\Users\Влада\source\repos\ConsoleApp9\CatsShop\obj\Debug\CatsShop.pdb
